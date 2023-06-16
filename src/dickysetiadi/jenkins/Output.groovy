@@ -1,4 +1,4 @@
-package programmerzamannow.jenkins;
+package dickysetiadi.jenkins;
 
 class Output {
 
